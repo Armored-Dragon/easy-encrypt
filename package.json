@@ -1,0 +1,20 @@
+{
+	"name": "easy-encryption",
+	"version": "0.9.0",
+	"description": "Node.JS module to easily encrypt/decrypt data without the extra fluff.",
+	"main": "easy_encrypt.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Armored-Dragon/easy-encrypt.git"
+	},
+	"keywords": [ "encryption", "security", "encrypt", "cipher", "decrypt", "decryption" ],
+	"author": "Armored-Dragon",
+	"license": "GPL-3.0",
+	"bugs": {
+		"url": "https://github.com/Armored-Dragon/easy-encrypt/issues"
+	},
+	"homepage": "https://github.com/Armored-Dragon/easy-encrypt#readme"
+}
